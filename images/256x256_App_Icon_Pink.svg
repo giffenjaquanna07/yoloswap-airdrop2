@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128.102" viewBox="11.333 0 833.333 834">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        fill: #fff;
+        font-family: "Alibaba PuHuiTi";
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 30px;
+      }
+    </style>
+  </defs>
+  <image id="图层_1_拷贝" data-name="图层 1 拷贝" width="856" height="834" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAACACAYAAAAoCdrIAAABRUlEQVR4nO3SsQ3CUBQEwYfl1AEioxH6LwYacAPoE2wNlpip4HTa2+P+es/MMfy7c5+Z57+/wM+xrSJ8wepgu8AILkIMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxEDEQMRAxkxXC4g9XBPjMfQTAz5xewxAdROEkRrwAAAABJRU5ErkJggg=="/>
+  <text id="yoloswap" class="cls-1" x="167" y="361">YOLO<tspan x="167" dy="240">SWAP</tspan></text>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-2" cx="428" cy="417" r="383"/>
+</svg>
